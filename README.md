@@ -31,7 +31,7 @@ spring.datasource.password=<password>
 ```
 4. Build and run the application:
 ```
-./mvnw spring-boot:run
+mvnw spring-boot:run
 ```
 
 ## API
