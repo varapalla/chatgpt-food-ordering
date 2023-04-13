@@ -54,7 +54,6 @@ Response
 ```
 {
   "id": 1,
-  "totalPrice": 23.97,
   "message": "Order created successfully"
 }
 
